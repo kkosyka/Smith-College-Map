@@ -1,4 +1,6 @@
-Smith College Map
+#Smith College Map
+##2015
+(Python)
 
 <br/>
 For Introduction to Computer Science through Programming at Smith College with Dominque Thiebaut.
