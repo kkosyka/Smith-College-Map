@@ -1,5 +1,5 @@
 <h2>Smith College Map</h2>
-<h3>2015</h3>
+<h3>December 2015</h3>
 (Python)
 
 <br/>
