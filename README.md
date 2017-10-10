@@ -1,5 +1,5 @@
-<h2>Smith College Map</h2>
-<h3>December 2015</h3>
+# Smith College Map
+## December 2015
 (Python)
 
 <br/>
